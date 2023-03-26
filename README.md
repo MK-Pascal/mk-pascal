@@ -9,10 +9,10 @@
 ***
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> About Me
 
-🏷️ I'm Pascal,\
-📍 Germany \
-🔨 I work on Discord Bots using **[Pycord](https://github.com/Pycord-Development/pycord)**\
-⚙️ And use [Ezcord](https://github.com/tibue99/ezcord) to code bots
+🏷️ I'm Pascal  
+📍 Germany  
+🔨 I work on Discord Bots using **[Pycord](https://github.com/Pycord-Development/pycord)**  
+⚙️ And use **[Ezcord](https://github.com/tibue99/ezcord)** to code bots
 
 
 ***
