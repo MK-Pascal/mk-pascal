@@ -24,7 +24,6 @@
 ## 📊 GitHub Stats and Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mk-pascal&theme=tokyonight)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mk-pascal&show_icons=true&theme=tokyonight)
 
 
 
