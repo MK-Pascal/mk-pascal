@@ -2,8 +2,7 @@
 
 
 ## MK_Pascal#0505
-[![](https://img.shields.io/discord/1085172741377884200?label=discord&style=for-the-badge&logo=discord&color=6330F6&logoColor=white)](https://discord.gg/zfvbjTEzv6)
-![Discord](https://dcbadge.vercel.app/api/shield/1038201039725285546?theme=discord-inverted)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1038201039725285546?idleMessage=Timo%20ist%20grrr)](https://discord.gg/juRvjsDY9x) 
 
 
 
