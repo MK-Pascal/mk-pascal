@@ -2,8 +2,9 @@
 
 
 ## MK_Pascal#0505
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/1038201039725285546?idleMessage=Timo%20ist%20grrr)](https://discord.gg/juRvjsDY9x) 
-
+</div>
 
 
 ***
