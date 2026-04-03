@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://mkpascal.art">🌐 Website</a> • 
-  <a href="https://discord.gg/juRvjsDY9x">💬 Discord</a>
 </p>
 
 ---
@@ -26,15 +25,6 @@
 - Album system with API  
 - Custom frontend (FastAPI + Jinja)  
 - Click tracking & caching  
-
----
-
-### 🤖 Discord Bot
-> Custom bot built with Pycord & Ezcord  
-- Modular system  
-- Commands & automation  
-
-👉 https://github.com/MK-Pascal/Discord-Bot
 
 ---
 
