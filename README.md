@@ -1,39 +1,78 @@
-
-
-
-## MK_Pascal#0505
-[![Discord Presence](https://lanyard.cnrad.dev/api/1038201039725285546?idleMessage=Timo%20ist%20grrr)](https://discord.gg/juRvjsDY9x) 
-
-
-***
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> About Me
-
-🏷️ I'm Pascal  
-📍 Germany  
-🔨 I work on Discord Bots using **[Pycord](https://github.com/Pycord-Development/pycord)**  
-⚙️ And use **[Ezcord](https://github.com/tibue99/ezcord)** to code bots
-
-
-***
-### Links To my projects
-📂 Discord [bot](https://github.com/MK-Pascal/Discord-Bot)
-
-***
-
-## 📊 GitHub Stats and Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mk-pascal&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-## 📝 Languages and Tools
-![Python](https://img.shields.io/badge/python-6330F6?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-6330F6?style=for-the-badge&logo=sqlite&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=6330F6&labelColor=6330F6)
-![Adobe](https://img.shields.io/badge/adobe-6330F6?style=for-the-badge&logo=adobe&logoColor=white)
-
-
-***
+<h1 align="center">Pascal König</h1>
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=mk-pascal&label=Profile%20views&color=6330F6&style=flat" alt="mk-pascal"/>
+  Simson & Motorsport Photography • Developer • Home Server Nerd
+</p>
+
+<p align="center">
+  <a href="https://mkpascal.art">🌐 Website</a> • 
+  <a href="https://discord.gg/juRvjsDY9x">💬 Discord</a>
+</p>
+
+---
+
+## 👋 About Me
+
+- 📸 Photography focused on **Simson & Motorsport**
+- ⚡ Building my own platform: **mkpascal.art**
+- 🖥️ Running a **home server** (Immich, Nextcloud, Docker)
+- 🤖 Developing tools & bots with Python
+
+---
+
+## 🚀 Projects
+
+### 🌐 mkpascal.art
+> My own photo platform with Immich integration  
+- Album system with API  
+- Custom frontend (FastAPI + Jinja)  
+- Click tracking & caching  
+
+---
+
+### 🤖 Discord Bot
+> Custom bot built with Pycord & Ezcord  
+- Modular system  
+- Commands & automation  
+
+👉 https://github.com/MK-Pascal/Discord-Bot
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Tools & Systems**
+- Docker
+- FastAPI
+- Immich API
+- Nextcloud
+
+**Creative**
+- Lightroom
+- Photoshop
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mk-pascal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Focus
+
+Currently working on:
+- 📸 Better photo workflows (sorting, exporting, presenting)
+- 🖥️ Expanding my home server
+- ⚙️ Building tools around my photography
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mk-pascal&label=Profile%20views&color=6330F6&style=flat"/>
 </p>
